@@ -1,3 +1,13 @@
+<!-- fork-notice:start -->
+
+> **About this fork:** maintained copy of [GreatStackDev/gocart](https://github.com/GreatStackDev/gocart), used for learning and integration. All credit for the original work goes to its authors. License: MIT (see `LICENSE`).
+>
+> **Live demo (upstream):** <https://gocart-gs.vercel.app>
+>
+> [![Standard CI](https://github.com/ArAryan1314/gocart/actions/workflows/standard-ci.yml/badge.svg)](https://github.com/ArAryan1314/gocart/actions/workflows/standard-ci.yml)
+
+<!-- fork-notice:end -->
+
 <div align="center">
   <h1><img src="https://gocart-gs.vercel.app/favicon.ico" width="20" height="20" alt="GoCart Favicon">
    GoCart</h1>
